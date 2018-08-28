@@ -6,3 +6,9 @@
 
 
 ![Alt text](/../doc/beeCounter/images/TupperwareDesign.jpg?raw=true)
+
+
+![Alt text](/doc/beeCounter/images/TupperwareDesign.jpg?raw=true "Optional Title")
+
+
+![Alt text](/doc/beeCounter/images/TupperwareDesign.jpg?raw=true)
